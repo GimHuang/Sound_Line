@@ -8,3 +8,6 @@ Making soudline with Matlab
 
 ## 使用说明：
 修改LINE30、LINE31 参数，运行即可得到声速曲线图
+
+
+### RESULT SHOWING
